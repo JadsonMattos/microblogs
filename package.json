@@ -2,5 +2,11 @@
   "name": "js",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^4.3.9"
+  },
+  "type": "module"
 }
